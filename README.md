@@ -4,7 +4,7 @@ Il miglior bot di whatsapp che tu possa mai avere o vedere
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=000BOT;Multi+Device+Whatsapp+Bot;VORTEX×TRIXED" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/demo/?color=2D8811&lines=000BOT alt="Typing SVG" />
   </a> 
 </div> 
 
